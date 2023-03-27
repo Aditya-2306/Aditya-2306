@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React, Java , JavaScript**
+- 💬 Ask me about **React, C++ , JavaScript**
 
-- 📫 How to reach me **dubeyakhil7024@gmail.com**
+- 📫 How to reach me **adistudy23@gmail.com.com**
 
 - ⚡ Fun fact **I am Crazy for Coding**
 <br>
@@ -28,10 +28,9 @@
 
 <a href="https://leetcode.com/Aditya2306" target="blank"><img align="center" src="https://github.com/Aditya2306/Aditya2306/blob/main/leetcode.svg" alt="dubeyakhil1" height="30" width="40" /></a>
 
-<a href="https://twitter.com/dubeyakhil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dubeyakhil1" height="30" width="40" /></a>
 
 
-<a href="https://www.codechef.com/users/PandeYAdityA23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="PandeYAdityA23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/users/PandeYAdityA23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="PandeYAdityA23" height="30" width="40" /></a>
 <a href="https://hackerrank.com/profile/adistudy23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adistudy23" height="30" width="40" /></a>
 </p>
 <br>
