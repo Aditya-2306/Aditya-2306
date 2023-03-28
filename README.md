@@ -19,14 +19,14 @@
 <br>
 
 
-<a href="https://github.com/Aditya2306/Aditya2306/blob/main/25331.jpg" target="blank"><img align="center" src="https://github.com/Aditya2306/Aditya2306/blob/main/25331.jpg" alt="dubeyakhil1" height="200" width="980" /></a>
+<a href="https://github.com/Aditya2306/Aditya2306/blob/main/25331.jpg" target="blank"><img align="center" 
 
 
 
 <marquee><h3 align="left">Connect with me:</h3></marquee>
 <p align="left">
 
-<a href="https://leetcode.com/Aditya2306" target="blank"><img align="center" src="https://github.com/Aditya2306/Aditya2306/blob/main/leetcode.svg" alt="dubeyakhil1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Aditya2306" target="blank"><img align="center" src="https://github.com/Aditya2306/Aditya2306/blob/main/leetcode.svg" alt="Aditya2306" height="30" width="40" /></a>
 
 
 
